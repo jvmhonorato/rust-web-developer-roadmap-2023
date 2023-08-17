@@ -11,7 +11,7 @@
 
 ## Roadmap
 
-![rust-web-developer-roadmap](https://github.com/vituhonorato/rust-web-developer-roadmap-2023/assets/101150943/2f124711-dc50-4f00-87f3-0d7c5165b630)
+![rust-web-developer-roadmap-2023](https://github.com/vituhonorato/rust-web-developer-roadmap-2023/assets/101150943/579902da-adf3-48a6-bd62-0669ed215c90)
 
 ## Resources
 
